@@ -1,5 +1,5 @@
 // matematicas-LEGAJOB.js — Funciones matemáticas
-// Autor: [María Virginia] - Legajo: 408492
+// Autor: [Nombre] - Legajo: XXXXX
 function sumar(a, b) {
  return a + b;
 }
